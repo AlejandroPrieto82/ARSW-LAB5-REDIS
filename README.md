@@ -1,9 +1,9 @@
 
 # LAB REDIS
 
-**Autor:** [AlejandroPrieto82](https://github.com/AlejandroPrieto82)
-**Proyecto:** ARSW - Laboratorio 5: Arquitectura de Eventos con Redis Pub/Sub
-**Tecnologías:** Java · Spring Boot · Redis · Docker · Maven
+**Autor:** [AlejandroPrieto82](https://github.com/AlejandroPrieto82)  
+**Proyecto:** ARSW - Laboratorio 5: Arquitectura de Eventos con Redis Pub/Sub  
+**Tecnologías:** Java · Spring Boot · Redis · Docker · Maven  
 
 ---
 
@@ -278,6 +278,6 @@ Spring Boot facilita la configuración y el manejo de los listeners, mientras qu
 
 ## ✍️ Autor
 
-**Alejandro Prieto**
-📍 Escuela Colombiana de Ingeniería Julio Garavito
-🔗 GitHub: [@AlejandroPrieto82](https://github.com/AlejandroPrieto82)
+**Alejandro Prieto**  
+📍 Escuela Colombiana de Ingeniería Julio Garavito  
+🔗 GitHub: [@AlejandroPrieto82](https://github.com/AlejandroPrieto82)  
